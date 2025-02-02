@@ -29,6 +29,11 @@ bool zero[NUM_PIXELS]  = { 1,1,1,1,1, 1,0,0,0,1, 1,0,0,0,1, 1,0,0,0,1, 1,1,1,1,1
 - A matriz de leds alterna entre os números com cores do arco-íris.
 - Um LED vermelho pisca 5 vezes a cada 5 segundos para indicar o funcionamento correto.
 
+## Demonstração
+
+📽️ Assista ao vídeo da demonstração:  
+[Clique aqui para ver o vídeo](C:\Users\renan\OneDrive\led-matriz\Vídeo do WhatsApp de 2025-02-02 à(s) 15.16.22_4893bb0b.mp4)
+
 
 ## Requisitos
 - Compilador C/C++
